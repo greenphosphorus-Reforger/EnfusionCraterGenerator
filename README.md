@@ -18,7 +18,8 @@ A one-click crater generator for Arma Reforger Workbench. Bakes thousands of ran
 1. In Workbench open **Terrain Tool → Export height map → Modified** and save the `.asc` file to:
    `Documents/My Games/ArmaReforgerWorkbench/profile/export/`
    If this folder doesn't exist, create it manually.
-2. Select **Crater Generator** from the Workbench tools menu
+2. Select **Crater Generator** from the Workbench tools menu<img width="287" height="737" alt="Screenshot 2026-06-04 233535" src="https://github.com/user-attachments/assets/d7bf4fbd-cec4-44ad-bb35-2562c599df5b" />
+
 3. Adjust settings in the panel
 4. Hit **Generate Craters** and wait for completion
 5. Import `UTM_Heightmap_Cratered.asc` — Terrain Tool → Import height map → Modified
