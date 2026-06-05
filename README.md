@@ -15,14 +15,31 @@ A one-click crater generator for Arma Reforger Workbench. Bakes thousands of ran
 
 ## Usage
 
-1. In Workbench open **Terrain Tool → Export height map → Modified** and save the `.asc` file to:
-   `Documents/My Games/ArmaReforgerWorkbench/profile/export/`
-   If this folder doesn't exist, create it manually.
-2. Select **Crater Generator** from the Workbench tools menu
-3. Adjust settings in the panel
-4. Hit **Generate Craters** and wait for completion
-5. Import `UTM_Heightmap_Cratered.asc` — Terrain Tool → Import height map → Modified
-6. Import `UTM_CraterMask.png` — Terrain Tool → Import surface map → select your dirt layer
+## Usage
+
+**Step 1 — Export your heightmap**
+In Workbench go to **Terrain Tool → Manage → Export height map → Modified**
+Save the `.asc` file to:
+`Documents/My Games/ArmaReforgerWorkbench/profile/export/`
+If this folder doesn't exist, create it manually.
+
+**Step 2 — Generate craters**
+1. Select **Crater Generator** from the Workbench tools menu
+2. Adjust settings in the panel to your liking
+3. Hit **Generate Craters** and wait for completion in the log
+
+**Step 3 — Import the heightmap**
+In Workbench go to **Terrain Tool → Manage → Import height map → Modified**
+Select `UTM_Heightmap_Cratered.asc` from the export folder.
+
+**Step 4 — Import the surface mask**
+1. Go to **Terrain Tool → Paint**
+2. Right-click the dirt/soil material you want to use for crater texture (e.g. `Dirt_02`)
+3. Select **Priority surface mask import...**
+4. Navigate to the export folder and select `UTM_CraterMask.png`
+5. Click **Open**
+
+The crater depressions and dirt texture are now baked into your terrain.
 <img width="287" height="737" alt="Screenshot 2026-06-04 233535" src="https://github.com/user-attachments/assets/d7bf4fbd-cec4-44ad-bb35-2562c599df5b" />
 <img width="528" height="478" alt="Screenshot 2026-06-04 234003" src="https://github.com/user-attachments/assets/ccd1e984-7f2f-4d9d-a526-2df03b92f976" />
 
