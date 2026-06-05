@@ -35,7 +35,7 @@ Select `UTM_Heightmap_Cratered.asc` from the export folder.
 1. Go to **Terrain Tool → Paint**
 2. Right-click the dirt/soil material you want to use for crater texture (e.g. `Dirt_02`)
 3. Select **Priority surface mask import...**
-4. Navigate to the export folder and select `UTM_CraterMask.png`
+4. Navigate to the export folder `Documents/My Games/ArmaReforgerWorkbench/profile/export/` and select `UTM_CraterMask.png`
 5. Click **Open**
 
 The crater depressions and dirt texture are now baked into your terrain.
