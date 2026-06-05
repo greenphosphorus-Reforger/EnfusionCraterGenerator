@@ -38,7 +38,7 @@ Select `UTM_Heightmap_Cratered.asc` from the export folder.
 4. Navigate to the export folder `Documents/My Games/ArmaReforgerWorkbench/profile/export/` and select `UTM_CraterMask.png`
 5. Click **Open**
 
-The crater depressions and dirt texture are now baked into your terrain at no preformance cost.
+The crater depressions and dirt texture are now baked into your terrain at no performance cost.
 
 <img width="287" height="737" alt="Screenshot 2026-06-04 233535" src="https://github.com/user-attachments/assets/d7bf4fbd-cec4-44ad-bb35-2562c599df5b" />
 <img width="528" height="478" alt="Screenshot 2026-06-04 234003" src="https://github.com/user-attachments/assets/ccd1e984-7f2f-4d9d-a526-2df03b92f976" />
