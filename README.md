@@ -10,7 +10,7 @@ A one-click crater generator for Arma Reforger Workbench. Bakes thousands of ran
 
 ## Installation
 
-1. Drop `UTM_CraterDepthTool.c` into your addon's `Scripts/WorkbenchGame/WorldEditor/` folder
+1. Drop `UTM_CraterDepthTool.c` into your addon's `Scripts/WorkbenchGame/WorldEditor/` folder — if this folder path doesn't exist, create it manually
 2. That's it — everything else generates itself on first use
 
 ## Usage
