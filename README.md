@@ -15,8 +15,6 @@ A one-click crater generator for Arma Reforger Workbench. Bakes thousands of ran
 
 ## Usage
 
-## Usage
-
 **Step 1 — Export your heightmap**
 In Workbench go to **Terrain Tool → Manage → Export height map → Modified**
 Save the `.asc` file to:
