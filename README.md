@@ -25,7 +25,7 @@ If this folder doesn't exist, create it manually.
 **Step 2 — Generate craters**
 1. Select **Crater Generator** from the Workbench tools menu
 2. Adjust settings in the panel to your liking
-3. Hit **Generate Craters** and wait for completion in the log
+3. Hit **Generate Craters**
 
 **Step 3 — Import the heightmap**
 In Workbench go to **Terrain Tool → Manage → Import height map → Modified**
