@@ -28,7 +28,7 @@ If this folder doesn't exist, create it manually.
 3. Hit **Generate Craters**
 
 **Step 3 — Import the heightmap**
-In Workbench go to **Terrain Tool → Manage → Import height map → Modified**
+In Workbench go to **Terrain Tool → Manage → Import height map → **
 Select `UTM_Heightmap_Cratered.asc` from the export folder.
 
 **Step 4 — Import the surface mask**
